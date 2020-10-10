@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WeatherApp</title>
+    <link rel="stylesheet" href="/main.css" />
+    <link rel="icon" type="image/png" href="./assets/favicon-16x16.png">
+  </head>
+  <body class="preventselect">
+  <div id="overlay">
+    <div class="preloader"></div>
+    <!-- <div>Loading Weather bot...</div> -->
+  </div>
+    <div class="app-wrap">
+      <header>
+        <input
+          type="text"
+          autocomplete="off"
+          class="search-box"
+          placeholder="Enter City here"
+        />
+      </header>
+      <main>
+        <section class="location">
+          <div class="city">....</div>
+          <div class="date">Sun 11 Oct 2020</div>
+        </section>
+        <div class="current">
+          <div class="temp">24<span>C</span></div>
+          <div class="weather">Thunderstorm</div>
+          <div class="hi-low">34C / 22C</div>
+        </div>
+      </main>
+    </div>
+    <script draggable="false" src="/app.js"></script>
+  </body>
+</html>
