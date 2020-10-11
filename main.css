@@ -33,15 +33,7 @@ body {
   from {
     transform: rotate(0deg);
   }
-  /* 25% {
-    color: #2ecc71;
-  }
-  50% {
-    color: #f1c40f;
-  }
-  75% {
-    color: #df2929;
-  } */
+ 
   to {
     transform: rotate(360deg);
   }
