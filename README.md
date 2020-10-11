@@ -11,7 +11,7 @@ It uses the https://openweathermap.org/api 's Current Weather Data api.
 **(0.1.2)**
 
 > - Added a preloader animation.
-> - Improved application's responsiveness.
+> - Improved application responsiveness.
 
 > preview
 
