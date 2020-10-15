@@ -1,5 +1,5 @@
 const api = {
-  key: "939470a93685a435c10b8a3e9b3ff37d",
+  key: "OpenWeatherTOKEN",
   baseurl: "http://api.openweathermap.org/data/2.5/",
 };
 alert("Connect to Port: 5500");
