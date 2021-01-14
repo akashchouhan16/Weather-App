@@ -6,7 +6,8 @@
 
 > A simple Web application using Fetch API to Obtain current (daily) weather report of requested city.
 
-It uses the https://openweathermap.org/api 's Current Weather Data api.
+* Check the weather app [Here]("https://getweatherupdate.netlify.app/")
+* It uses the https://openweathermap.org/api 's Current Weather Data api.
 
 **(0.1.2)**
 
