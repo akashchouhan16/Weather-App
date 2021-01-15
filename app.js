@@ -1,7 +1,11 @@
-const api = {
-  key: "OpenWeatherTOKEN",
-  baseurl: "http://api.openweathermap.org/data/2.5/",
-};
+// require('dotenv').config();
+// import api from './api.js'
+// const api = {
+//   key: "939470a93685a435c10b8a3e9b3ff37d",
+//   baseurl: "http://api.openweathermap.org/data/2.5/",
+// };
+const _0x49ef=['89809vSZmSC','218JiwSNY','43891YXWSxo','3631ptfsLp','939470a93685a435c10b8a3e9b3ff37d','39105fJXlMb','1iKEUhY','397875CWOeKH','7cPJJUz','989644wzKpvP','1047wDLHjI','http://api.openweathermap.org/data/2.5/','45LAMkGa'];const _0x3d6d=function(_0x5a46d8,_0x17e4a3){_0x5a46d8=_0x5a46d8-0x1e4;let _0x49ef7b=_0x49ef[_0x5a46d8];return _0x49ef7b;};const _0x543cf7=_0x3d6d;(function(_0xdda39c,_0x5b0fe9){const _0x3b755e=_0x3d6d;while(!![]){try{const _0x2e5f25=-parseInt(_0x3b755e(0x1ed))+-parseInt(_0x3b755e(0x1eb))+-parseInt(_0x3b755e(0x1e5))*-parseInt(_0x3b755e(0x1e9))+parseInt(_0x3b755e(0x1ee))*-parseInt(_0x3b755e(0x1e8))+-parseInt(_0x3b755e(0x1ec))*-parseInt(_0x3b755e(0x1e6))+-parseInt(_0x3b755e(0x1f0))*parseInt(_0x3b755e(0x1e7))+parseInt(_0x3b755e(0x1ef));if(_0x2e5f25===_0x5b0fe9)break;else _0xdda39c['push'](_0xdda39c['shift']());}catch(_0x2a5fa4){_0xdda39c['push'](_0xdda39c['shift']());}}}(_0x49ef,0x42031));const api={'key':_0x543cf7(0x1ea),'baseurl':_0x543cf7(0x1e4)};
+
 alert("Connect to Port: 5500");
 var overlay = document.getElementById("overlay");
 
